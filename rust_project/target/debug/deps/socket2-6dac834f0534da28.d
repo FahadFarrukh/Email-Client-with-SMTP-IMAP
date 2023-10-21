@@ -1,0 +1,11 @@
+C:\abc\GitProjects\Rust_Networking_Project\rust_project\target\debug\deps\socket2-6dac834f0534da28.rmeta: C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\lib.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockaddr.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\socket.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockref.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sys\windows.rs
+
+C:\abc\GitProjects\Rust_Networking_Project\rust_project\target\debug\deps\libsocket2-6dac834f0534da28.rlib: C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\lib.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockaddr.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\socket.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockref.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sys\windows.rs
+
+C:\abc\GitProjects\Rust_Networking_Project\rust_project\target\debug\deps\socket2-6dac834f0534da28.d: C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\lib.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockaddr.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\socket.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockref.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sys\windows.rs
+
+C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\lib.rs:
+C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockaddr.rs:
+C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\socket.rs:
+C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sockref.rs:
+C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.5\src\sys\windows.rs:

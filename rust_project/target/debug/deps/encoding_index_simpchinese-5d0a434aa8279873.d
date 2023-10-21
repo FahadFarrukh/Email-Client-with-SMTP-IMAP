@@ -1,0 +1,9 @@
+C:\abc\GitProjects\Rust_Networking_Project\rust_project\target\debug\deps\encoding_index_simpchinese-5d0a434aa8279873.rmeta: C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-simpchinese-1.20141219.5\lib.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-simpchinese-1.20141219.5\gb18030.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-simpchinese-1.20141219.5\gb18030_ranges.rs
+
+C:\abc\GitProjects\Rust_Networking_Project\rust_project\target\debug\deps\libencoding_index_simpchinese-5d0a434aa8279873.rlib: C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-simpchinese-1.20141219.5\lib.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-simpchinese-1.20141219.5\gb18030.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-simpchinese-1.20141219.5\gb18030_ranges.rs
+
+C:\abc\GitProjects\Rust_Networking_Project\rust_project\target\debug\deps\encoding_index_simpchinese-5d0a434aa8279873.d: C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-simpchinese-1.20141219.5\lib.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-simpchinese-1.20141219.5\gb18030.rs C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-simpchinese-1.20141219.5\gb18030_ranges.rs
+
+C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-simpchinese-1.20141219.5\lib.rs:
+C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-simpchinese-1.20141219.5\gb18030.rs:
+C:\Users\fahad\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-simpchinese-1.20141219.5\gb18030_ranges.rs:
